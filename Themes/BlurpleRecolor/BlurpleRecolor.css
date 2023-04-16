@@ -1,9 +1,9 @@
-﻿@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/ThemeDevBadge.css);
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/ThemeDevBadge.css);
+﻿@import url(https://JumperREDACTED.github.io/BetterDiscordAddons/Themes/_res/ThemeDevBadge.css);
+@import url(JumperREDACTED.github.io/BetterDiscordAddons/Themes/_res/ThemeDevBadge.css);
 
 :root {
-	--accentcolor:					88,101,242;
-	--accentcolor2:					255,115,250;
+	--accentcolor:					250,100,30;
+	--accentcolor2:					181,67,6;
 	--linkcolor:					0,176,244;
 	
 	--accentcolor-hover:			rgb(var(--accentcolor)) linear-gradient(0deg, rgba(255,255,255,.15), rgba(255,255,255,.15));
