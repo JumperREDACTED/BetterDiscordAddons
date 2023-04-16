@@ -4,7 +4,7 @@
 :root {
 	--accentcolor:					250,100,30;
 	--accentcolor2:					181,67,6;
-	--linkcolor:					203,130,255;
+	--linkcolor:					230,130,255;
 	
 	--accentcolor-hover:			rgb(var(--accentcolor)) linear-gradient(0deg, rgba(255,255,255,.15), rgba(255,255,255,.15));
 	--accentcolor-active:			rgb(var(--accentcolor)) linear-gradient(0deg, rgba(255,255,255,.3), rgba(255,255,255,.3));
